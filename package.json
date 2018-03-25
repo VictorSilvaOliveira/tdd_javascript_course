@@ -1,0 +1,19 @@
+{
+  "name": "tdd_javascript_course",
+  "version": "1.0.0",
+  "description": "Curso de TDD java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSilvaOliveira/tdd_javascript_course.git"
+  },
+  "author": "Victor Silva de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorSilvaOliveira/tdd_javascript_course/issues"
+  },
+  "homepage": "https://github.com/VictorSilvaOliveira/tdd_javascript_course#readme"
+}
